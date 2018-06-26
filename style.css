@@ -1,0 +1,20 @@
+div#memory_board {
+	border: #999 1px solid;
+	width: 800px;
+	height: 550px;
+	padding: 24px;
+	margin: 0px auto;
+}
+
+div#memory_board > div{
+	background: #333;
+	border: #000 1px solid;
+	width: 70px;
+	height: 70px;
+	float: left;
+	margin: 10px;
+	padding: 20px;
+	font-size: 64px;
+	cursor: pointer;
+	text-align:center; 
+}
